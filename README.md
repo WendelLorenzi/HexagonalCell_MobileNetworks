@@ -3,6 +3,9 @@
  <br>
  Chamada fela função: main(Raio, qtd_usuarios_cell) --> ex: main(300, 50) <br> 
  
+ ![hexagonoCell](https://user-images.githubusercontent.com/38894557/146994379-87bb9778-fff4-4ebd-90e8-cdaee5e847d7.png)
+
+ 
  <br>
  <h3> Cálculo de Distância </h3>
 Cada usuario tem uma distância associada, tal distância, em metros, representa o espaço entre dois pontos, usuário e a ERB localizada no centro. Calculada pela raiz do quadrado da diferença entre os pontos.
